@@ -1,3 +1,4 @@
+// write RTL for 1bit full adder using dataflow abstraction
 // full adder
 module full_adder (
 	input a_in,b_in,cin,
